@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
-<h1 align="center">Hi 👋, I'm Aksah Kamar Khwarar</h1>
+<h1 align="center">Hi 👋, I'm Akash Kharwar</h1>
 <h3 align="center">Passionate Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theakashkharwar&label=Profile%20views&color=0e75b6&style=flat" alt="theakashkharwar" /> </p>
