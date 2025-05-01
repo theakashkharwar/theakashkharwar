@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/theakashkharwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theakashkharwar" height="30" width="40" /></a>
 <a href="https://instagram.com/_the.thinker._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the.thinker._" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/@theakashkharwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@theakashkharwar" height="30" width="40" /></a> -->
-<a href="https://discord.gg/akashkharwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akashkharwar" height="30" width="40" /></a>
+<a href="https://discord.com/users/1038320975831367721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akashkharwar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
