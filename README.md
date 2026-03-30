@@ -23,7 +23,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
@@ -87,7 +86,6 @@
   <img src="https://skillicons.dev/icons?i=windows" height="60" alt="windows logo"  />
 </div>
 
-###
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theakashkharwar&show_icons=true&locale=en" alt="theakashkharwar" /></p>
 
