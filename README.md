@@ -15,28 +15,41 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div align="center">
-  <a href="https://twitter.com/theakashkharwar" target="_blank" style="margin: 0 15px;">
+<p align="center">
+
+  <a href="https://twitter.com/theakashkharwar"
+     target="_blank"
+     style="display:inline-block; margin-right:30px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-         alt="Twitter" height="40" width="40" />
+         width="40"
+         height="40" />
   </a>
 
-  <a href="https://linkedin.com/in/theakashkharwar" target="_blank" style="margin: 0 15px;">
+  <a href="https://linkedin.com/in/theakashkharwar"
+     target="_blank"
+     style="display:inline-block; margin-right:30px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn" height="40" width="40" />
+         width="40"
+         height="40" />
   </a>
 
-  <a href="https://instagram.com/_the.thinker._" target="_blank" style="margin: 0 15px;">
+  <a href="https://instagram.com/_the.thinker._"
+     target="_blank"
+     style="display:inline-block; margin-right:30px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         alt="Instagram" height="40" width="40" />
+         width="40"
+         height="40" />
   </a>
 
-  <a href="https://discord.com/users/1038320975831367721" target="_blank" style="margin: 0 15px;">
+  <a href="https://discord.com/users/1038320975831367721"
+     target="_blank"
+     style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-         alt="Discord" height="40" width="40" />
+         width="40"
+         height="40" />
   </a>
-</div>
 
+</p>
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="center">
