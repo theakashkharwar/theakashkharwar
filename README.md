@@ -13,34 +13,28 @@
 
 - 🐯 Portfolio **https://theakashkharwar.vercel.app/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
-
-  <a href="https://twitter.com/theakashkharwar" target="_blank"
-     style="padding: 12px; border-radius: 12px; background: #1e1e1e;">
+<div align="center">
+  <a href="https://twitter.com/theakashkharwar" target="_blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-         alt="theakashkharwar" height="30" width="40" />
+         alt="Twitter" height="40" width="40" />
   </a>
 
-  <a href="https://linkedin.com/in/theakashkharwar" target="_blank"
-     style="padding: 12px; border-radius: 12px; background: #1e1e1e;">
+  <a href="https://linkedin.com/in/theakashkharwar" target="_blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="theakashkharwar" height="30" width="40" />
+         alt="LinkedIn" height="40" width="40" />
   </a>
 
-  <a href="https://instagram.com/_the.thinker._" target="_blank"
-     style="padding: 12px; border-radius: 12px; background: #1e1e1e;">
+  <a href="https://instagram.com/_the.thinker._" target="_blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         alt="_the.thinker._" height="30" width="40" />
+         alt="Instagram" height="40" width="40" />
   </a>
 
-  <a href="https://discord.com/users/1038320975831367721" target="_blank"
-     style="padding: 12px; border-radius: 12px; background: #1e1e1e;">
+  <a href="https://discord.com/users/1038320975831367721" target="_blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-         alt="akashkharwar" height="30" width="40" />
+         alt="Discord" height="40" width="40" />
   </a>
-
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
